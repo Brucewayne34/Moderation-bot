@@ -1,0 +1,28 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "default_prefix": "-",
+  "owner_ids": [123456789012345678],
+  "database": {
+    "mode": "json",
+    "json_path": "data.json",
+    "mongo_uri": "mongodb://localhost:27017",
+    "mongo_db": "modbot"
+  },
+  "embed": {
+    "color": 10181046,
+    "footer": "Guardian++ • Moderation & Security"
+  },
+  "slash": {
+    "guild_sync_ids": []
+  },
+  "antinuke_defaults": {
+    "timeout_seconds": 60,
+    "channel_delete_threshold": 3,
+    "channel_delete_window": 15,
+    "spam_threshold": 7,
+    "spam_window": 5,
+    "block_invites": true,
+    "block_nsfw_in_sfw_channels": true,
+    "auto_revoke_dangerous_perms": true
+  }
+}
