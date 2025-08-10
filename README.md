@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-2.4%2B-blue.svg)](https://discordpy.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Brucewayne34/guardian-plus-bot?style=social)](https://github.com/Brucewayne34/guardian-plus-bot/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Brucewayne34/guardian-plus-bot?style=social)](https://github.com/Brucewayne34/moderation-bot)
 
 ---
 
