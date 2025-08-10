@@ -22,7 +22,7 @@ try:
     colorama_init(autoreset=True)
     COLOR_ENABLED = True
 except Exception:
-    COLOR_ENABLED = False
+    COLOR_ENABLED = True
     class Fore:  # fallbacks
         CYAN = GREEN = MAGENTA = YELLOW = RED = BLUE = WHITE = ""
     class Style:
